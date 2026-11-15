@@ -47,7 +47,7 @@ export const portfolioData = {
     academics: [
       'Secured 2nd position in the 2nd, 4th and 5th semesters.',
       'Maintained a CGPA of 7.5+ across all semesters.',
-      'Awarded a UFM for an unfortunate incident involving examination malpractice during the semester examination.',
+      // 'Awarded a UFM for an unfortunate incident involving examination malpractice during the semester examination.',
     ],
     skills: ['MS Office', 'Excel', 'Power BI', 'Canva'],
     focus: [
